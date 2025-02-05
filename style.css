@@ -1,0 +1,69 @@
+.margin{
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+    margin-right: 8cm;
+    margin-left: 8cm;
+    
+}  
+.font {
+    font-family: "Inknut Antiqua", serif;
+    font-optical-sizing: auto;
+    font-weight: 95;
+    font-style: normal;
+  }
+.text{
+    color: black;
+    
+}
+
+.font1 {
+    font-family: "Inknut Antiqua", serif;
+    font-optical-sizing: auto;
+    font-weight: 95;
+    font-style: normal;
+  }
+  .navbar{
+    background-color:rgb(243, 208, 208);
+    padding: 0.5%;
+    border-radius: 0%;
+    
+  }
+  .navbar a{
+    color:black;
+    font-weight:bolder; 
+    font-size:larger;
+   text-decoration: none;
+   padding-right: 2cm;
+   padding-left: 2cm;
+   
+  }
+  .navbar a:hover{
+color: crimson;
+  }
+  .breadcrumb{
+    background-color: rgb(75, 73, 73);
+    padding: 2%;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 0%;
+  }
+  .breadcrumb a{
+    color:black;
+    font-weight:bolder; 
+    font-size:larger;
+   padding: 6%;
+  }
+  .breadcrumb a:hover{
+    color:blueviolet;
+  }
+  .margin1{
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+    margin-right: 8cm;
+    margin-left: 8cm;
+    
+  }
+  .text1{
+    color: black;
+    text-align: center;
+}
